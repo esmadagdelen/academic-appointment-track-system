@@ -27,7 +27,7 @@ The project uses an **SQLite** database to manage:
 To run the project:
 
 1. Make sure you have Java 8 or above installed.
-2. Open the project in an IDE like IntelliJ IDEA or NetBeans.
+2. Open the project in an IDE like IntelliJ IDEA, VSCode or NetBeans.
 3. Add the `sqlite-jdbc` library to your project.
 4. Run the `Main.java` file to launch the application.
 
