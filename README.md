@@ -2,7 +2,7 @@
 
 This is a desktop application developed using **Java Swing**. The main purpose of the project is to facilitate appointment scheduling and management between students and academic staff.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Java Swing** – for building the graphical user interface (GUI)
 - **SQLite** – as the database to store student and professor information
